@@ -1,0 +1,1 @@
+# This module implements functions that calculate the best days to walk.
